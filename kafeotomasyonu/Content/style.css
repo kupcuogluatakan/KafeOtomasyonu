@@ -1,0 +1,54 @@
+﻿body {
+    background-image: url(images/bg.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-size: cover;
+    position: absolute;
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    }
+
+table {
+    border:groove ;
+    text-align:center;
+    }
+.ana_tbl {
+    height: 50%;
+    width: 100%;
+}
+.True {
+     background-image: url('../images/True.png');
+}
+.False {
+    background-image: url('../images/False.png');
+}
+.tbl.personel {
+    width: 100%
+}
+.profil_foto {
+    width: 120px;
+    height: 120px;
+}
+.firma_ad{
+    font-size:xx-large;
+}
+.button1 {
+    background-color:white;
+    width:auto;
+}
+.tbl_masalar {
+    height: 450px;
+    width: 100%;
+}
+img {
+    width: 450px;
+    height: 650px;
+}
+button {
+    width :450px;
+}
+
+.masa_buton {
+    width:90px;
+
+}
